@@ -1,0 +1,10 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "brickdb",
+      "database": "${workspaceFolder:rebrickable-sqlite}/dist/bricks.db"
+    }
+  ]
+}
